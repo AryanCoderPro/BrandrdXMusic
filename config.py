@@ -42,7 +42,7 @@ API_KEY = getenv("API_KEY", 'NxGBNexGenBots6c30dd')
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/AryanCoderPro/DoraBaby",
+    "https://github.com/AryanCoderPro/BrandrdXMusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
